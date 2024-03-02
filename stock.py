@@ -15,7 +15,7 @@ import statsmodels.api as sm
 from statsmodels.tsa.stattools import adfuller
 from PIL import Image
 
-logo = Image.open('C:/Users/Harsh shah/stockX/logo.png')
+logo = Image.open('logo.png')
 
 
 # Display the logo
