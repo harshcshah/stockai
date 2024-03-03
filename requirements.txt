@@ -1,4 +1,7 @@
 streamlit
+pickle
+pathlib
+streamlit-authenticator
 yfinance
 pandas
 numpy
@@ -6,4 +9,5 @@ matplotlib
 seaborn
 plotly
 statsmodels
-Pillow
+requests
+streamlit-lottie
